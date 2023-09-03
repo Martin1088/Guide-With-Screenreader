@@ -10,4 +10,4 @@ Jaws-Key + 3 = Pass key commands through (will be needed if it is used with Jaws
 ## Navigation with NVDA
 
 ## WSL 
-with `wsl`
+with `C:\> wsl`
